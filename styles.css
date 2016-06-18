@@ -13,5 +13,11 @@ p{
 
 img{
 	padding-bottom:20px;
+	
 }
-
+.img-rounded {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
